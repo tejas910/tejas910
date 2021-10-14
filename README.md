@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Patil</h1>
-<h3 align="center">Competative Coder|Fullstack Developer|Android Developer 💻💻💻</h3>
+<h3 align="center">Competative Coder | Fullstack Developer | Android Developer 💻💻💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas910&label=Profile%20views&color=0e75b6&style=flat" alt="tejas910" /> </p>
 
