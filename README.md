@@ -9,10 +9,10 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  
+<!--   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
 <img src=https://img.shields.io/badge/HackerRank-%2EC866.svg?&style=for-the-badge&logo=CodeChef&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
-  
+   -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
 <img src=https://img.shields.io/badge/Codechef-%5B4638.svg?&style=for-the-badge&logo=HackerRank&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 
