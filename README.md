@@ -10,8 +10,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   
-[![Codechef Badge](https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hariketsheth1)
-[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hariketsheth)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
+<img src=https://img.shields.io/badge/HackerRank-%2EC866.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-patil-2bb083206/" target="_blank">
+<img src=https://img.shields.io/badge/Codechef-%5B4638.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 </a>  
   
