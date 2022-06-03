@@ -101,11 +101,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 <h2 align="center"> ☁ Google Cloud Badges </h2>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1932217" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/167246384-51b226ab-7680-4e7f-9870-60095d8cc140.png" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1992326" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/168458068-a0d8bc23-1561-4688-9fb1-718f366e673d.png" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2021771" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/169092961-bdcc7de0-ce4a-4efd-b309-fffa7f7ea13b.png" style="height:30vh; width:15vw;"/></a>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2095522" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2122177" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw](https://cdn.qwiklabs.com/dm0Hz9Vg2Nvvrsq3y1aCFz4xP1FoI6srK%2FqVJDqfdHo%3D" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2121238" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/167246384-51b226ab-7680-4e7f-9870-60095d8cc140.png" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2120397" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/168458068-a0d8bc23-1561-4688-9fb1-718f366e673d.png" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2117305" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/169092961-bdcc7de0-ce4a-4efd-b309-fffa7f7ea13b.png" style="height:30vh; width:15vw;"/></a>
+<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2110561" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
 <hr/> 
   
 
