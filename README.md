@@ -24,7 +24,9 @@
 ### Glad to see you here!  
 I’m a full-stack developer, Android developer and opensource enthusiasm. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like android and AI  
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like android and AI 
+  
+  Check my google cloud profile here:- <a href=" https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720 ">check Here</a>
   
 
 <br/>  
