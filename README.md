@@ -119,8 +119,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <hr/> 
   
   <h2 align="center"> Coding Ninja Batches </h2>
-<a   href="https://www.cloudskillsboost.google/public_profiles/4153f62e-0230-405e-b059-aed84e3b4720/badges/2122177" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11114.svg" style="height:30vh; width:15vw;"/></a>
-<hr/> 
+<a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11114.svg" style="height:30vh; width:15vw;"/></a> 
+  <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-2-11115.svg" style="height:30vh; width:15vw;"/></a>
+<a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-3-11116.svg" style="height:30vh; width:15vw;"/></a>
+  <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11117.svg" style="height:30vh; width:15vw;"/></a>
+    <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11118.svg" style="height:30vh; width:15vw;"/></a>
+  <hr/> 
   
 
 
