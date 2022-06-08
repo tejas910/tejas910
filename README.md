@@ -122,8 +122,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11114.svg" style="height:30vh; width:15vw;"/></a> 
   <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-2-11115.svg" style="height:30vh; width:15vw;"/></a>
 <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-3-11116.svg" style="height:30vh; width:15vw;"/></a>
-  <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11117.svg" style="height:30vh; width:15vw;"/></a>
-    <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-1-11118.svg" style="height:30vh; width:15vw;"/></a>
+  <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-4-11117.svg" style="height:30vh; width:15vw;"/></a>
+    <a   href="" target="_blank"><img src="https://files.codingninjas.com/color-badge-level-5-11118.svg" style="height:30vh; width:15vw;"/></a>
   <hr/> 
   
 
